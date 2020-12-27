@@ -1,5 +1,6 @@
 # Assignments
-Python Assignment 1 (Reviewed);
-Python Assignment 2;
-Python Assignment 3;
-Python Assignment 4
+Python Assignment 1 (Reviewed) <br />
+Python Assignment 2 <br />
+Python Assignment 3 <br />
+Python Assignment 4 <br />
+Exception Handling Assignment
