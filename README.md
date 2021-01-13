@@ -6,4 +6,5 @@ Python Assignment 4 (Reviewed) <br />
 Exception Handling Assignment (Reviewed) <br />
 Data Cleaning Pandas. <br />
 Numpy Assignment. <br />
-Data Visualization Assignment.
+Data Visualization Assignment. <br />
+Matplotlib Assignment.
