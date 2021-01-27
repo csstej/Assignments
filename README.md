@@ -13,4 +13,7 @@ Stats 2 Assignment. <br />
 Stats 3 Assignment. <br />
 Stats 4 Assignment. <br />
 Linear Regression Assignment. <br />
-Logistic Regression Assignment.
+Logistic Regression Assignment. <br />
+Decision Tree Assignment. <br />
+Random Forests Assignment. <br />
+XGBOOST Assignment.
