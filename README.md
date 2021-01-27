@@ -4,7 +4,11 @@ Python Assignment 2 (Reviewed) <br />
 Python Assignment 3 (Reviewed) <br />
 Python Assignment 4 (Reviewed) <br />
 Exception Handling Assignment (Reviewed) <br />
-Data Cleaning Pandas. <br />
-Numpy Assignment. <br />
-Data Visualization Assignment. <br />
-Matplotlib Assignment.
+Data Cleaning Pandas. (Reviewed) <br />
+Numpy Assignment. (Reviewed) <br />
+Data Visualization Assignment. (Reviewed) <br />
+Matplotlib Assignment. (Reviewed) <br />
+Stats 1 Assignment. <br />
+Stats 2 Assignment. <br />
+Stats 3 Assignment. <br />
+Stats 4 Assignment. 
