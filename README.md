@@ -11,4 +11,6 @@ Matplotlib Assignment. (Reviewed) <br />
 Stats 1 Assignment. <br />
 Stats 2 Assignment. <br />
 Stats 3 Assignment. <br />
-Stats 4 Assignment. 
+Stats 4 Assignment. <br />
+Linear Regression Assignment. <br />
+Logistic Regression Assignment.
