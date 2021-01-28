@@ -16,4 +16,8 @@ Linear Regression Assignment. <br />
 Logistic Regression Assignment. <br />
 Decision Tree Assignment. <br />
 Random Forests Assignment. <br />
-XGBOOST Assignment.
+XGBOOST Assignment. <br />
+ML Clustering Assignment. <br />
+ML Project Clustering. <br />
+ML Combined Assignment. <br />
+ML Project.
