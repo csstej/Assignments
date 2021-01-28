@@ -20,4 +20,6 @@ XGBOOST Assignment. <br />
 ML Clustering Assignment. <br />
 ML Project Clustering. <br />
 ML Combined Assignment. <br />
-ML Project.
+ML Project. <br />
+Time Series Assignment. <br />
+Project Time Series.
