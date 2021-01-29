@@ -22,4 +22,5 @@ ML Project Clustering. <br />
 ML Combined Assignment. <br />
 ML Project. <br />
 Time Series Assignment. <br />
-Project Time Series.
+Project Time Series. <br />
+NLP Assignment.
