@@ -8,15 +8,15 @@ Data Cleaning Pandas. (Reviewed) <br />
 Numpy Assignment. (Reviewed) <br />
 Data Visualization Assignment. (Reviewed) <br />
 Matplotlib Assignment. (Reviewed) <br />
-Stats 1 Assignment. <br />
-Stats 2 Assignment. <br />
-Stats 3 Assignment. <br />
-Stats 4 Assignment. <br />
-Linear Regression Assignment. <br />
-Logistic Regression Assignment. <br />
-Decision Tree Assignment. <br />
-Random Forests Assignment. <br />
-XGBOOST Assignment. <br />
+Stats 1 Assignment. (Reviewed) <br />
+Stats 2 Assignment. (Reviewed) <br />
+Stats 3 Assignment. (Reviewed) <br />
+Stats 4 Assignment. (Reviewed) <br />
+Linear Regression Assignment. (Reviewed) <br />
+Logistic Regression Assignment. (Reviewed) <br />
+Decision Tree Assignment. (Reviewed) <br />
+Random Forests Assignment. (Reviewed) <br />
+XGBOOST Assignment. (Reviewed) <br />
 ML Clustering Assignment. <br />
 ML Project Clustering. <br />
 ML Combined Assignment. <br />
